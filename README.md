@@ -21,8 +21,8 @@ no enable your apache and MySQL and go to "localhost/FOLDERNAME" on your browser
 
 # Live Hosting on AWS
 
-ip address https://3.85.148.174/
-customised yrl; https://ratan.whitemax.in
+ip address https://3.85.148.174/rento
+customised yrl; https://ratan.whitemax.in/rento
 
 
 
